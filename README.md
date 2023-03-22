@@ -13,6 +13,6 @@ Description:
 
 2, License Client corresponds to the version of dotnet above 5.0 version can use the crack hub method or replace the engine corresponding to check the signature of the crack file to complete the crack.
 
+3,  You can check the product version of the file \Editor\Data\Resources\Licensing\Client\WindowsBase.dll in the Unity installation directory
+
 -- Crack complete --
-
-
