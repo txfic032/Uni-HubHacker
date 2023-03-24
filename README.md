@@ -5,7 +5,7 @@ Folder Description:
 
 3, NoHubVersion folder is the LicenseClient that does not require the installation of the Hub crack engine alone, provided that the Hub is installed to generate the local alf license file.
 
-4, UnityCrackTool is a cracking tool for Win and Mac, applicable to versions released before February 2023.
+4, UnityCrackTool is a cracking tool for Win and Mac, applicable to versions released before March 2023.
 
 Hub Crack:
 1, Download the required version.
@@ -32,7 +32,7 @@ Description:
 
 3、NoHubVersion文件夹为不需要安装Hub单独破解引擎的LicenseClient,前提是需要安装Hub生成本机的alf许可文件。
 
-4、UnityCrackTool为Win和Mac的破解工具,适用于2023年2月之前发布的版本。
+4、UnityCrackTool为Win和Mac的破解工具,适用于2023年3月之前发布的版本。
 
 Hub破解：
 1，下载所需的版本。
