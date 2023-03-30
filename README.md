@@ -18,6 +18,8 @@ Hub Crack:
 
 4, Generate a license with the tool in the licensegenerate folder.
 
+5, 2023.2.0 and above require both Hub and engine to be cracked.
+
 -- Crack complete --
 
 文件夹说明：
@@ -39,3 +41,5 @@ Hub破解：
 3, 将crack.rar中的文件替换到Hub的安装目录中。
 
 4, 用 licensegenerate 文件夹中的工具生成一个许可证。
+
+5, 2023.2.0以上版本需要Unity和Hub都破解。
