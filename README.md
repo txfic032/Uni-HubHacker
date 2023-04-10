@@ -1,3 +1,6 @@
+因UnityLicenseGenerate只有win版,所以需要把Mac和Linux生成的alf许可证放到win下生成ulf许可证.
+
+
 Folder Description:
 
 1, The HubVersionw folder is the cracked Hub client, containing the installation packages for both Win and Macl platforms and the corresponding crack patches.
